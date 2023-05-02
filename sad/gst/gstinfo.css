@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(254, 255, 255);
+}
+
+.t1 .t2:hover{
+    background-color: rgb(246, 240, 240);
+    
+}
+
+.t1 .t3:hover{
+    background-color: rgb(246, 240, 240);
+    
+}
+
+.t1 .t4:hover{
+    background-color: rgb(246, 240, 240);
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(33, 31, 31);
+    color: white;
+    text-align: center;
+  }
